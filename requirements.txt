@@ -1,4 +1,4 @@
 streamlit
 pandas
-PIL
-FPDF
+Pillow
+fpdf
