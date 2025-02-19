@@ -1,8 +1,8 @@
+from fpdf import FPDF
 import streamlit as st
 import datetime
 from PIL import Image
 import random
-from fpdf import FPDF
 
 # ---------------------- App Configuration ----------------------
 st.set_page_config(
